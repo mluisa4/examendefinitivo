@@ -1,0 +1,53 @@
+#cabecera{
+    font-family: Gadugi;
+    font-size:35px;
+    color:red;
+    text-align:center;
+}
+ul li{
+    list-style-type: none;
+    display:inline;
+    font-size: 24px;
+    font-weight: 0;
+    font-family: impact;  
+    background: #FFFFFF;
+    padding: 15px;
+    border-radius: 0px;
+    color:gray
+}
+
+#menu{
+    text-align: center;
+} 
+
+img{
+    border-radius: 5px;
+} 
+
+#cuerpo{
+    text-align: center;
+    font-family: italict;
+    color: #848484;
+    font-size: 20px;
+    font-weight:bold
+} 
+#pie{
+    background: #D8D8D8;
+    text-align: center;
+    color: black;
+    font-family: Gadugi;
+    font-weight:bold ;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color:red;
+    font-size: 25px;
+}
+a:visited{
+    color:gray;
+}
+

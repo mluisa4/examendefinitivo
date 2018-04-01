@@ -1,0 +1,95 @@
+#cabecera{
+    font-family: Gadugi;
+    font-size:35px;
+    color:red;
+    text-align:center;
+}
+
+ul li{
+    list-style-type: none;
+    display:inline-block;
+    font-size: 24px;
+    font-weight: 0;
+    font-family: impact;  
+    background: #FFFFFF;
+    padding: 15px;
+    border-radius: 0px;
+    color:gray
+}
+a{ text-decoration: none;
+}
+
+a:hover{
+    color:red;
+    font-size: 25px;
+}
+a:visited{
+    color:gray;
+}
+#menu{
+    text-align: center;
+}
+
+#wrapper
+{
+    float: left;
+    float/**/: none;
+}
+#wrapper:after
+{
+    content: 0; 
+    display: block; 
+    height: 0; 
+    clear: both; 
+    visibility: hidden;
+}
+#wrapper
+{
+    display: inline-block;
+}
+
+#wrapper
+{
+    display: block;
+}
+
+#footer
+{
+    clear: both;
+}
+
+#pie{
+    background: #D8D8D8;
+    text-align: center;
+    display:inline-block;
+    color: black;
+    font-family: Gadugi;
+    font-weight:bold ;
+    
+}
+#block_1
+{
+    float: left;
+    width: 25%;
+}
+
+#block_1
+{  
+    list-style-type: none;
+    display:list-item;
+    font-size: 15px;
+    font-weight: 10;
+    font-family: Gadugi;  
+    background: #FFFFFF;
+    padding: 0px;
+    border-radius: 0px;
+    color:black
+
+}
+#block_2
+{
+    float: left;
+    width: 65%;
+}  
+
+

@@ -1,0 +1,37 @@
+#cabecera{
+    font-family: Gadugi;
+    font-size:35px;
+    color:red;
+    text-align:center;
+}
+ul li{
+    list-style-type: none;
+    display:inline;
+    font-size: 24px;
+    font-weight: 0;
+    font-family: impact;  
+    background: #FFFFFF;
+    padding: 10px;
+    border-radius: 0px;
+    color:gray
+}
+#menu{
+    text-align: center;
+}
+a:hover{
+    color:red;
+    font-size: 25px;
+}
+a:visited{
+    color:gray;
+}
+a{text-decoration: none;
+}
+
+#pie{
+    background: #D8D8D8;
+    text-align: center;
+    color: black;
+    font-family: Gadugi;
+    font-weight:bold ;
+}
